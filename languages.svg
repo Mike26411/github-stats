@@ -134,25 +134,25 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #555555; 
-  width: 52.288%;
+  width: 52.135%;
 " class="progress-item"></span><span style="
   background-color: #4d41b1; 
-  width: 30.133%;
+  width: 30.044%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 9.968%;
+  width: 10.232%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
-  width: 4.049%;
+  width: 4.037%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 1.885%;
+  width: 1.879%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 0.982%;
+  width: 0.979%;
 " class="progress-item"></span><span style="
   background-color: #000; 
-  width: 0.695%;
+  width: 0.693%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -173,7 +173,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">52.29%</span>
+  <span class="percent">52.14%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -189,7 +189,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Fortran</span>
-  <span class="percent">30.13%</span>
+  <span class="percent">30.04%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -205,7 +205,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">9.97%</span>
+  <span class="percent">10.23%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -221,7 +221,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Assembly</span>
-  <span class="percent">4.05%</span>
+  <span class="percent">4.04%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -269,7 +269,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Linker Script</span>
-  <span class="percent">0.70%</span>
+  <span class="percent">0.69%</span>
 </li>
 
 
